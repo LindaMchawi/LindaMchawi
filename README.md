@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LindaMchawi
 - 👀 I’m interested in health+biodiversity informatics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything that helps me get better at coding 
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on anything relates to climate change and its impact on healthcare 
 - 📫 How to reach me @lindamchawi@gmail.com
 
 <!---
